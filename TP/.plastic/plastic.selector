@@ -1,0 +1,4 @@
+repository "TP@wospdp13@cloud"
+  path "/"
+    br "/main"
+    co "/main"
